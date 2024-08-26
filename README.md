@@ -216,5 +216,6 @@ Both PRs and issues are appreciated!
 ## Use as library
 
 It's possible to use this as a library. It's not well documented for that use,
-but the feature is there. There is one default feature attached, which is the
-whole highlighting of code blocks.
+but the feature is there.
+
+See [examples](examples) for a simple demo.
